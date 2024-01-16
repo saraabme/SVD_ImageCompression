@@ -1,4 +1,4 @@
-# SVD_ImageCompression
+# Image Compression using Singular Value Decomposition (SVD)
 
 In this project, the focus is on image compression using Singular Value Decomposition (SVD), specifically following the principles of the well-known "Eigenfaces" experiment. The process involves representing a grayscale image M of size m x n as an m x n real matrix. SVD is then applied to obtain U, S, and V matrices. By utilizing the largest k singular values and corresponding singular vectors, a best rank-k approximation to M is achieved.
 
